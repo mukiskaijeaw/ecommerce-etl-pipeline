@@ -77,6 +77,7 @@ python main.py
 ---
 
 ## Project Structure
+'''
 ecommerce_etl_pipeline/
 ├── data/
 │   ├── raw/           ← Raw CSV files (not included in repo)
@@ -90,7 +91,7 @@ ecommerce_etl_pipeline/
 ├── create_data.py     ← Generate sample dataset
 ├── main.py            ← Run full ETL pipeline
 └── requirements.txt
-
+'''
 ---
 
 ## Author
